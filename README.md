@@ -6,3 +6,4 @@
 # right click on file
 # select  open with live Server option 
 # it will open in your default browser
+#https://github.com/omkargunti-24/SingleCv.git
